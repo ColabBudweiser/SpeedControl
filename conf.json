@@ -1,0 +1,7 @@
+{
+  "host":                       "localhost",
+  "listen_port":                ":8181",
+  "select_queries_start_time":  "15:10",
+  "select_queries_finish_time": "23:50",
+  "dirs_cache_size":            10000
+}
